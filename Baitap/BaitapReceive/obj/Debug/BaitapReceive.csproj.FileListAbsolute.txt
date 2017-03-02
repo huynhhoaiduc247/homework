@@ -1,0 +1,14 @@
+F:\Visual\WEB\Baitap\BaitapReceive\bin\Debug\BaitapReceive.exe.config
+F:\Visual\WEB\Baitap\BaitapReceive\bin\Debug\BaitapReceive.exe
+F:\Visual\WEB\Baitap\BaitapReceive\bin\Debug\BaitapReceive.pdb
+F:\Visual\WEB\Baitap\BaitapReceive\obj\Debug\BaitapReceive.Form1.resources
+F:\Visual\WEB\Baitap\BaitapReceive\obj\Debug\BaitapReceive.Properties.Resources.resources
+F:\Visual\WEB\Baitap\BaitapReceive\obj\Debug\BaitapReceive.csproj.GenerateResource.Cache
+F:\Visual\WEB\Baitap\BaitapReceive\obj\Debug\BaitapReceive.exe
+F:\Visual\WEB\Baitap\BaitapReceive\obj\Debug\BaitapReceive.pdb
+F:\Visual\WEB\Baitap\BaitapReceive\obj\Debug\BaitapReceive.csprojResolveAssemblyReference.cache
+F:\Visual\WEB\Baitap\BaitapReceive\bin\Debug\Apache.NMS.ActiveMQ.dll
+F:\Visual\WEB\Baitap\BaitapReceive\bin\Debug\Apache.NMS.dll
+F:\Visual\WEB\Baitap\BaitapReceive\bin\Debug\Apache.NMS.pdb
+F:\Visual\WEB\Baitap\BaitapReceive\bin\Debug\Apache.NMS.ActiveMQ.pdb
+F:\Visual\WEB\Baitap\BaitapReceive\bin\Debug\Apache.NMS.ActiveMQ.xml

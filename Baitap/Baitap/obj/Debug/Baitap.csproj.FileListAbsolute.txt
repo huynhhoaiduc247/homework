@@ -1,0 +1,9 @@
+F:\Visual\WEB\Baitap\Baitap\bin\Debug\Baitap.exe.config
+F:\Visual\WEB\Baitap\Baitap\bin\Debug\Baitap.exe
+F:\Visual\WEB\Baitap\Baitap\bin\Debug\Baitap.pdb
+F:\Visual\WEB\Baitap\Baitap\obj\Debug\Baitap.csprojResolveAssemblyReference.cache
+F:\Visual\WEB\Baitap\Baitap\obj\Debug\Baitap.Form1.resources
+F:\Visual\WEB\Baitap\Baitap\obj\Debug\Baitap.Properties.Resources.resources
+F:\Visual\WEB\Baitap\Baitap\obj\Debug\Baitap.csproj.GenerateResource.Cache
+F:\Visual\WEB\Baitap\Baitap\obj\Debug\Baitap.exe
+F:\Visual\WEB\Baitap\Baitap\obj\Debug\Baitap.pdb

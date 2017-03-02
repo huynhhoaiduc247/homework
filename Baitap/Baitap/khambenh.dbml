@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="baitap" Class="khambenhDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=Duc-PC;Initial Catalog=baitap;Integrated Security=True" SettingsObjectName="Baitap.Properties.Settings" SettingsPropertyName="baitapConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Bacsi" Member="Bacsis">
+    <Type Name="Bacsi">
+      <Column Name="Mabs" Type="System.String" DbType="VarChar(25) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="hotenbacsi" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Association Name="Bacsi_khambenh" Member="khambenhs" ThisKey="Mabs" OtherKey="Mabs" Type="khambenh" />
+    </Type>
+  </Table>
+  <Table Name="dbo.khambenh" Member="khambenhs">
+    <Type Name="khambenh">
+      <Column Name="MSBN" Type="System.String" DbType="VarChar(15) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Mabs" Type="System.String" DbType="VarChar(25)" CanBeNull="true" />
+      <Column Name="ngaykham" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="ghichu" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Association Name="Bacsi_khambenh" Member="Bacsi" ThisKey="Mabs" OtherKey="Mabs" Type="Bacsi" IsForeignKey="true" />
+      <Association Name="benhnhan_khambenh" Member="benhnhan" ThisKey="MSBN" OtherKey="MSBN" Type="benhnhan" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.benhnhan" Member="benhnhans">
+    <Type Name="benhnhan">
+      <Column Name="MSBN" Type="System.String" DbType="VarChar(15) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="SoCmnd" Type="System.String" DbType="VarChar(25)" CanBeNull="true" />
+      <Column Name="Hoten" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="Diachi" Type="System.String" DbType="VarChar(250)" CanBeNull="true" />
+      <Association Name="benhnhan_khambenh" Member="khambenh" ThisKey="MSBN" OtherKey="MSBN" Type="khambenh" Cardinality="One" />
+    </Type>
+  </Table>
+</Database>

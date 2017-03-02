@@ -1,0 +1,14 @@
+F:\Visual\WEB\Baitap\Baitap\bin\Debug\Baitap.exe.config
+F:\Visual\WEB\Baitap\Baitap\obj\Debug\Baitap.exe
+F:\Visual\WEB\Baitap\Baitap\obj\Debug\Baitap.pdb
+F:\Visual\WEB\Baitap\Baitap\bin\Debug\Baitap.exe
+F:\Visual\WEB\Baitap\Baitap\bin\Debug\Baitap.pdb
+F:\Visual\WEB\Baitap\Baitap\bin\Debug\Apache.NMS.ActiveMQ.dll
+F:\Visual\WEB\Baitap\Baitap\bin\Debug\Apache.NMS.dll
+F:\Visual\WEB\Baitap\Baitap\bin\Debug\Apache.NMS.pdb
+F:\Visual\WEB\Baitap\Baitap\bin\Debug\Apache.NMS.ActiveMQ.pdb
+F:\Visual\WEB\Baitap\Baitap\bin\Debug\Apache.NMS.ActiveMQ.xml
+F:\Visual\WEB\Baitap\Baitap\obj\Debug\BaitapSender.csprojResolveAssemblyReference.cache
+F:\Visual\WEB\Baitap\Baitap\obj\Debug\Baitap.Form1.resources
+F:\Visual\WEB\Baitap\Baitap\obj\Debug\Baitap.Properties.Resources.resources
+F:\Visual\WEB\Baitap\Baitap\obj\Debug\BaitapSender.csproj.GenerateResource.Cache
